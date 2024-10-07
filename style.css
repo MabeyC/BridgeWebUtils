@@ -1,10 +1,6 @@
 /* Testing External URL for a style sheet */
 /* Trying to see if using a stylesheet will improve DOM shifting */
 
-body {
-  background: red !important;
-}
-
 /* Hide the BridgeWebs Release Info*/
 .bwbox_release {
   display: none !important;
