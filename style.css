@@ -2,12 +2,12 @@
 /* Trying to see if using a stylesheet will improve DOM shifting */
 
 /* Hide the BridgeWebs Release Info*/
-.bwbox_release {
+div.bwbox_release {
   display: none !important;
 }
 
 /* Hide the BridgeWebs Footer "Made with BridgeWebs" */
-.bwbox_footer {
+div.bwbox_footer {
   display: none !important;
 }
 
