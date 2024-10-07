@@ -1,5 +1,34 @@
 /* Testing External URL for a style sheet */
+/* Trying to see if using a stylesheet will improve DOM shifting */
 
 body {
   background: red !important;
 }
+
+/* Hide the BridgeWebs Release Info*/
+.bwbox_release {
+  display: none !important;
+}
+
+/* Hide the BridgeWebs Footer "Made with BridgeWebs" */
+.bwbox_footer {
+  display: none !important;
+}
+
+/* Hide the Header bar above the main content */
+div.header_style {
+  display: none !important;
+}
+
+/* Center Top Menu */
+ul.menu-top {
+  margin: 0 auto !important;
+  width: fit-content !important;
+}
+
+/* Center Menu Titles */
+menu-button menu-drop {
+  text-align: center !important;
+  width: 100% !important;
+}
+
